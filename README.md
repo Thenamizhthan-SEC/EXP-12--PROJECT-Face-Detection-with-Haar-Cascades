@@ -200,7 +200,7 @@ plt.show()
 <img width="435" height="555" alt="Screenshot 2026-09-22 115434" src="https://github.com/user-attachments/assets/df7e9020-7f8a-4c67-bb57-f68add8b8e57" />
 <img width="381" height="512" alt="Screenshot 2026-09-22 115448" src="https://github.com/user-attachments/assets/fb8ddf10-b203-4552-a97e-c30b25239f7b" />
 <img width="682" height="470" alt="Screenshot 2026-09-22 115454" src="https://github.com/user-attachments/assets/eb08bd0f-5f4d-4e90-a4da-0a7d81d5447f" />
-<img width="682" height="470" alt="Screenshot 2026-09-22 115454" src="https://github.com/user-attachments/assets/eb08bd0f-5f4d-4e90-a4da-0a7d81d5447f" />
+<img width="691" height="470" alt="Screenshot 2026-09-22 115501" src="https://github.com/user-attachments/assets/f5de91a1-7e32-448e-852c-3e58435e5540" />
 <img width="662" height="461" alt="Screenshot 2026-09-22 115507" src="https://github.com/user-attachments/assets/411f3e73-a7fd-4e1a-a3c6-1fecf3b8fa0e" />
 <img width="516" height="662" alt="image" src="https://github.com/user-attachments/assets/cf209611-8a60-46f5-aa6e-3c2220535a5a" />
 
